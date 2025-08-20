@@ -10,4 +10,4 @@ It projects the data into a lower-dimensional space while maximizing class separ
 - Works on the Iris dataset
 - Visualizes the 2D projection
 
-[!Figure](./Figure_1.png)
+![Figure](./Figure_1.png)
